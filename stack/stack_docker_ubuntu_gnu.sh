@@ -325,16 +325,16 @@ mapl:
   version: v2.7.3
 
 geos:
-  build: YES
-  version: 3.8.1
+  build: NO
+  version: 3.8.0
 
 libtiff:
-  build: YES
-  version: 4.0.3
+  build: NO
+  version: 4.1.0
 
 sqlite:
-  build: YES
-  version: 3.32.3
+  build: NO
+  version: 3.31.1
 
 proj:
   build: YES
